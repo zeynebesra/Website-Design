@@ -8,6 +8,10 @@
 
 ![resim-4](https://user-images.githubusercontent.com/75810064/202853534-9d5ad517-2197-40aa-9c95-e192406e7d83.png)
 
-3- Website With Auto Typing Text Effect
+3- Website Design With Auto Typing Text Effect
 
 ![resim1](https://user-images.githubusercontent.com/75810064/202862523-ed502863-4be2-49cb-b3ac-93b2a866e2ae.png)
+
+4- Website Design With GIF Background
+
+![image](https://user-images.githubusercontent.com/75810064/202865171-ca922722-fe12-4ce6-b942-1b0947628745.png)
