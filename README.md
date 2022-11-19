@@ -1,4 +1,4 @@
-"# Website-Design-Using-HTML-CSS-and-JS"
+"# Website Design using HTML CSS and JS"
 
 1 - Animated Website
 
@@ -7,3 +7,5 @@
 2 - Website Header
 
 ![resim-4](https://user-images.githubusercontent.com/75810064/202853534-9d5ad517-2197-40aa-9c95-e192406e7d83.png)
+
+3- Website With Auto Typing Text Effect
