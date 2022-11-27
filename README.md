@@ -9,12 +9,17 @@
 
 ![image](https://user-images.githubusercontent.com/75810064/202865171-ca922722-fe12-4ce6-b942-1b0947628745.png)
 
-* Animated Website
+* Website With Dynamic Images
 
-![resim](https://user-images.githubusercontent.com/75810064/202848729-552a2216-e62c-445e-b36d-9a06495a9fdb.png)
+![234324](https://user-images.githubusercontent.com/75810064/204129638-6ad1e035-1080-4ba5-af6f-bfa18770efa0.png)
 
 * Website Header
 
 ![resim-4](https://user-images.githubusercontent.com/75810064/202853534-9d5ad517-2197-40aa-9c95-e192406e7d83.png)
+
+* Animated Website
+
+![resim](https://user-images.githubusercontent.com/75810064/202848729-552a2216-e62c-445e-b36d-9a06495a9fdb.png)
+
 
 
